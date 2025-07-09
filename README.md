@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Backend (Nodesure Assignment)
+# 🛒 E-Commerce Backend 
 
 This is the backend of a complete e-commerce application built with **Node.js**, **Express**, and **MongoDB**. It handles user authentication, product management, order processing, payment integration via **Stripe**, and more.
 
